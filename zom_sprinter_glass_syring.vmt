@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\nevermodels\callofduty_ww2\zombies\pest\zom_sprinter_glass_col"
+	"$bumpmap" "models\nevermodels\callofduty_ww2\zombies\pest\zom_sprinter_glass_nml"
+                "$translucent" "1"
+
+	"$phong" "1"
+	"$phongexponent" "70"
+                "$phongexponenttexture" "models\nevermodels\callofduty_ww2\zombies\pest\zom_sprinter_glass_spec"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+                "$ambientocclusion" "0"
+}
+
